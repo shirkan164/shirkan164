@@ -2,7 +2,7 @@
 - 👀 I’m interested in games development
 - 🌱 I’m currently learning c++ recently and mastering the UE4 Engine
 - 💞️ I’m looking to collaborate on My biggest project - Mech X Tech
-- 📫 How to reach me? Discord! https://discord.gg/NgQQFWnrUm
+- 📫 How to reach me? Discord! https://discord.gg/ebWeqJv68B
 
 <!---
 shirkan164/shirkan164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
